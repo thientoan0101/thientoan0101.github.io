@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Thien Toan | Personal Blog</title>
-    <link>https://example.com/post/</link>
+    <link>https://thientoan0101.github.io/post/</link>
     <description>Recent content in Posts on Thien Toan | Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thientoan0101.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo page bundles</title>
-      <link>https://example.com/post/bundle/</link>
+      <link>https://thientoan0101.github.io/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/bundle/</guid>
+      <guid>https://thientoan0101.github.io/post/bundle/</guid>
       <description>
         
           
@@ -29,10 +29,10 @@ Hugo Clarity supports the use of leaf bundles, which are any directories within 
     
     <item>
       <title>Using Notices</title>
-      <link>https://example.com/post/notices/</link>
+      <link>https://thientoan0101.github.io/post/notices/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/notices/</guid>
+      <guid>https://thientoan0101.github.io/post/notices/</guid>
       <description>
         
           
@@ -47,15 +47,15 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>https://example.com/post/markdown-syntax.pt/</link>
+      <link>https://thientoan0101.github.io/post/markdown-syntax.pt/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/markdown-syntax.pt/</guid>
+      <guid>https://thientoan0101.github.io/post/markdown-syntax.pt/</guid>
       <description>
         
           
             &lt;p&gt;&lt;strong&gt;Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Artigo original: https://example.com/post/markdown-syntax/&lt;/p&gt;
+&lt;p&gt;Artigo original: https://thientoan0101.github.io/post/markdown-syntax/&lt;/p&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
           
           
@@ -65,10 +65,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
+      <link>https://thientoan0101.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/markdown-syntax/</guid>
+      <guid>https://thientoan0101.github.io/post/markdown-syntax/</guid>
       <description>
         
           
@@ -81,10 +81,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
+      <link>https://thientoan0101.github.io/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/rich-content/</guid>
+      <guid>https://thientoan0101.github.io/post/rich-content/</guid>
       <description>
         
           
@@ -97,10 +97,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
+      <link>https://thientoan0101.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/placeholder-text/</guid>
+      <guid>https://thientoan0101.github.io/post/placeholder-text/</guid>
       <description>
         
           
@@ -113,10 +113,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/post/math-typesetting/</link>
+      <link>https://thientoan0101.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/math-typesetting/</guid>
+      <guid>https://thientoan0101.github.io/post/math-typesetting/</guid>
       <description>
         
           
@@ -129,10 +129,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
+      <link>https://thientoan0101.github.io/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/emoji-support/</guid>
+      <guid>https://thientoan0101.github.io/post/emoji-support/</guid>
       <description>
         
           
