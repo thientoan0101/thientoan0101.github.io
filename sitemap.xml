@@ -2,28 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thientoan0101.github.io/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/categories/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/tags/hcmus/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/tags/life/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/categories/life/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/post/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/tags/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/post/thach-thuc-2022/</loc>
+    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thientoan0101.github.io/about/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thientoan0101.github.io/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <loc>https://thientoan0101.github.io/post/first-time/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thientoan0101.github.io/categories/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <loc>https://thientoan0101.github.io/tags/vng/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/categories/vng/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/tags/zalopay/</loc>
+    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thientoan0101.github.io/tags/hugo/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thientoan0101.github.io/post/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thientoan0101.github.io/series/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thientoan0101.github.io/categories/syntax/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thientoan0101.github.io/tags/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thientoan0101.github.io/series/themes-guide/</loc>
@@ -100,6 +124,8 @@
   </url><url>
     <loc>https://thientoan0101.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thientoan0101.github.io/category/</loc>
   </url><url>
     <loc>https://thientoan0101.github.io/tags/index/</loc>
   </url><url>
